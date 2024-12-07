@@ -8,7 +8,7 @@ import { SidebarItem } from "./SidebarItem"
 
 export const Sidebar = () => {
   return (
-    <div className="bg-white h-screen w-72 flex flex-col justify-start items-start">
+    <div className="bg-white h-screen w-1/5 flex flex-col justify-start items-start">
         <div className="text-2xl mb-10 mt-3 text-emerald-800 font-semibold flex justify-center items-center">
          <div className="px-3">
             <LogoIcon size='medium'/>
